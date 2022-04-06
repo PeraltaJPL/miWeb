@@ -1,2 +1,2 @@
-Modificacion del contenido del archivo 2
+Modificacion del contenido del archivo 2 
 Cambio para realizar commit de una manera diferente
